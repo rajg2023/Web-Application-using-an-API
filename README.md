@@ -4,9 +4,7 @@ Build a Website using an API with HTML, JavaScript, and JSON for Coursera projec
 
 ## Overview
 
-This project is built as a Coursera course project work to 
-##Build a Website using an API with HTML, JavaScript, and JSON. 
-This is a responsive weather forecast web application that allows users to look up 7-day weather forecasts for major European cities. It uses the 7Timer! API to fetch forecast data and displays it with city-specific icons and temperatures to provide an engaging user experience.
+This project is built as a Coursera course project work to Build a Website using an API with HTML, JavaScript, and JSON. This is a responsive weather forecast web application that allows users to look up 7-day weather forecasts for major European cities. It uses the 7Timer! API to fetch forecast data and displays it with city-specific icons and temperatures to provide an engaging user experience.
 
 
 In this project, you will step into the shoes of web developer, helping a travel agency to increase travel booking.
