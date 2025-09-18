@@ -1,4 +1,10 @@
+
 body {
     background-color: #d7d7d7;
     color: black;
+    background-image: url("../images/weather-2412140_1920.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+    
 }
